@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![MasterHead](https://gamerwalkthroughs.com/wp-content/uploads/2018/06/Hollow-Knight-Image-3.jpg)]([your GitHub link](https://github.com/antoineFabr))
+[![MasterHead](https://gamerwalkthroughs.com/wp-content/uploads/2018/06/Hollow-Knight-Image-3.jpg)](https://github.com/antoineFabr)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antoineFabr)](https://git.io/streak-stats)
 
 <!--
