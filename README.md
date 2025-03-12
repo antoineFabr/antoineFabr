@@ -46,7 +46,9 @@
 ## GitHub stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoineFabr&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!--
 **antoineFabr/antoineFabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
