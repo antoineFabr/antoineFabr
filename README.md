@@ -37,13 +37,13 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 </div>
 
-
+</td></tr></table> 
 
 <br>
 <br>
 <br>
 
-
+## GitHub stats
 [![Years Badge](https://badges.pufler.dev/years/antoineFabr)](https://badges.pufler.dev)
 ![](https://komarev.com/ghpvc/?username=antoineFabr)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/antoineFabr)](https://badges.pufler.dev)
