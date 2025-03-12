@@ -46,10 +46,7 @@
 ## GitHub stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoineFabr&hide_border=true&layout=compact" align="left" style="width: 100%" />
-[![Years Badge](https://badges.pufler.dev/years/antoineFabr)](https://badges.pufler.dev)
-![](https://komarev.com/ghpvc/?username=antoineFabr)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/antoineFabr)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/elloow/elloow?label=Elloow+activity)](https://github.com/antoineFabr)
+
 
 <!--
 **antoineFabr/antoineFabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
