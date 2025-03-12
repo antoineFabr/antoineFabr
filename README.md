@@ -23,7 +23,7 @@
 
 ### Backend  
 <div align="center">  
-<a href="https://www.https:/adonisjs.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/13810373?s=48&v=4" alt="AdonisJs" height="50" /></a>  
+<a href="https://adonisjs.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/13810373?s=48&v=4" alt="AdonisJs" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
