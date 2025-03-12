@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 <h1 align="center">
-  Welcome to my profil ! 🎈✨
+  Welcome to my profile ! 🎈✨
 
 </h1>
 <div align="center">
