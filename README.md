@@ -1,9 +1,16 @@
-# Welcome to my profil ! 🎈✨
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+<h1 align="center">
+  Welcome to my profil ! 🎈✨
+
+</h1>
+<div align="center">
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoineFabr&layout=compact&theme=github_dark&hide_border=true" alt="estebanstb's GitHub Language stats"></a>
+</div>
 
 
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoineFabr&layout=compact&theme=github_dark&hide_border=true" alt="estebanstb's GitHub Language stats"></a>
-
-## My Skill Set  
+## My Skill Set ✨🎆 
 <table><tr><td valign="top" width="50%">
 
 
