@@ -1,7 +1,7 @@
 ## Hi there 👋
-[![MasterHead](https://gamerwalkthroughs.com/wp-content/uploads/2018/06/Hollow-Knight-Image-3.jpg)](https://github.com/antoineFabr)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antoineFabr)](https://git.io/streak-stats)
-## GitHub stats
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
@@ -44,6 +44,8 @@
 <br>
 
 ## GitHub stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoineFabr&hide_border=true&layout=compact" align="left" style="width: 100%" />
 [![Years Badge](https://badges.pufler.dev/years/antoineFabr)](https://badges.pufler.dev)
 ![](https://komarev.com/ghpvc/?username=antoineFabr)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/antoineFabr)](https://badges.pufler.dev)
