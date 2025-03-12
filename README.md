@@ -37,15 +37,7 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 </div>
 
-</td></tr></table> 
 
-<br>
-<br>
-<br>
-
-## GitHub stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoineFabr&hide_border=true&layout=compact" align="left" style="width: 100%" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
