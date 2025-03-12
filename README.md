@@ -1,6 +1,15 @@
 ## Hi there 👋
 [![MasterHead](https://gamerwalkthroughs.com/wp-content/uploads/2018/06/Hollow-Knight-Image-3.jpg)](https://github.com/antoineFabr)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antoineFabr)](https://git.io/streak-stats)
+## GitHub stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoineFabr&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+
+[![Years Badge](https://badges.pufler.dev/years/crbast)](https://badges.pufler.dev)
+![](https://komarev.com/ghpvc/?username=crbast)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/crbast)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/elloow/elloow?label=Elloow+activity)](https://github.com/elloow)
 
 <!--
 **antoineFabr/antoineFabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
