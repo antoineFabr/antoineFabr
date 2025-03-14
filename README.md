@@ -8,7 +8,8 @@
 <div align="center">
   <a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoineFabr&layout=compact&theme=github_dark&hide_border=true" alt="Antoine's GitHub Language stats"></a>
  
-   <a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=antoineFabr&show_icons=true&theme=radical" alt="antoine's GitHub stats"></a>
+   <a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=antoineFabr&theme=bear&show_icons=true&hide_border=true&count_private=true" alt="antoine's GitHub stats"></a>
+
 </div>
 
 
